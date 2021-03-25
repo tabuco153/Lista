@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 ,Cartoon Network
+https://tv.teleclub.xyz/senal/tele?club2=CARTOON_NETWORK&format=playlist.m3u8
+
+#EXTINF:-1 ,Disney JR
+https://tv.teleclub.xyz/senal/tele?club2=DISNEY_JR&format=playlist.m3u8
